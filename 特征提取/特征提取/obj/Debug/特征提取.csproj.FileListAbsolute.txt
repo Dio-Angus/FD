@@ -1,0 +1,9 @@
+c:\users\lenovo\documents\visual studio 2013\Projects\特征提取\特征提取\bin\Debug\特征提取.exe.config
+c:\users\lenovo\documents\visual studio 2013\Projects\特征提取\特征提取\bin\Debug\特征提取.exe
+c:\users\lenovo\documents\visual studio 2013\Projects\特征提取\特征提取\bin\Debug\特征提取.pdb
+c:\users\lenovo\documents\visual studio 2013\Projects\特征提取\特征提取\obj\Debug\特征提取.exe
+c:\users\lenovo\documents\visual studio 2013\Projects\特征提取\特征提取\obj\Debug\特征提取.pdb
+C:\Users\LENOVO\documents\visual studio 2013\Projects\特征提取\特征提取\obj\Debug\特征提取.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\documents\visual studio 2013\Projects\特征提取\特征提取\bin\Debug\NPOI.dll
+C:\Users\LENOVO\documents\visual studio 2013\Projects\特征提取\特征提取\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\LENOVO\documents\visual studio 2013\Projects\特征提取\特征提取\bin\Debug\NPOI.xml

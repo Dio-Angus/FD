@@ -1,0 +1,12 @@
+c:\users\lenovo\documents\visual studio 2013\Projects\网络爬虫\网络爬虫\bin\Debug\网络爬虫.exe.config
+c:\users\lenovo\documents\visual studio 2013\Projects\网络爬虫\网络爬虫\bin\Debug\网络爬虫.exe
+c:\users\lenovo\documents\visual studio 2013\Projects\网络爬虫\网络爬虫\bin\Debug\网络爬虫.pdb
+c:\users\lenovo\documents\visual studio 2013\Projects\网络爬虫\网络爬虫\obj\Debug\网络爬虫.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2013\Projects\网络爬虫\网络爬虫\obj\Debug\网络爬虫.Form1.resources
+c:\users\lenovo\documents\visual studio 2013\Projects\网络爬虫\网络爬虫\obj\Debug\网络爬虫.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2013\Projects\网络爬虫\网络爬虫\obj\Debug\网络爬虫.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2013\Projects\网络爬虫\网络爬虫\obj\Debug\网络爬虫.exe
+c:\users\lenovo\documents\visual studio 2013\Projects\网络爬虫\网络爬虫\obj\Debug\网络爬虫.pdb
+C:\Users\LENOVO\documents\visual studio 2013\Projects\网络爬虫\网络爬虫\bin\Debug\NPOI.xml
+C:\Users\LENOVO\documents\visual studio 2013\Projects\网络爬虫\网络爬虫\bin\Debug\PanGu.pdb
+C:\Users\LENOVO\documents\visual studio 2013\Projects\网络爬虫\网络爬虫\bin\Debug\PanGu.xml
